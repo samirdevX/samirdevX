@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 👋, I AM SAMIR ALAM
+
+### 👨‍💻 B.TECH CSE STUDENT | ASPIRING SOFTWARE DEVELOPER
+
+🚀 Building Real-World Web Applications & Projects  
+🌱 Learning DSA, Java, JavaScript, React & Backend Development  
+💻 Interested in Full-Stack Development & Product-Based Companies  
+🤝 Open to Collaboration on Interesting Projects  
+⚡ Turning Ideas Into Code, One Project at a Time
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SameerTechX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er_recer_sameer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SameerDevX) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sameer Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samiralam6915@gmail.com) 
 
